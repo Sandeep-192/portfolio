@@ -6,12 +6,12 @@ This is my personal portfolio website built using HTML.
 - Sandeep Kolleti
 
 ## 📁 Folder Structure
-
+```
 portfolio/
  ├── index.html
  ├── images/
         └── profilePhoto.jpeg
-
+```
 
 ## 🚀 Features
 - Simple and clean UI
