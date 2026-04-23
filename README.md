@@ -9,6 +9,8 @@ This is my personal portfolio website built using HTML.
 ```
 portfolio/
  ├── index.html
+ ├── html/
+        └── contact.html
  ├── images/
         └── profilePhoto.jpeg
 ```
