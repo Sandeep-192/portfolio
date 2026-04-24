@@ -11,6 +11,8 @@ portfolio/
  ├── index.html
  ├── html/
         └── contact.html
+ ├── css/
+        └── style.css
  ├── images/
         └── profilePhoto.jpeg
 ```
